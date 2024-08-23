@@ -1,0 +1,24 @@
+cp,ecosection_subregion,proportion,original_area,protected_area
+eco_plants_eelgrass_polygons_d,North Coast Fjords,0.08717066375616585,32293464.03355347,2815042.6947907247
+eco_plants_eelgrass_polygons_d,CC,0.31973300573501073,20124472.59789873,6434458.112558021
+eco_plants_eelgrass_polygons_d,Dixon Entrance,0.0,15078379.346541122,0.0
+eco_plants_eelgrass_polygons_d,HG,0.0,26192170.741315547,0.0
+eco_plants_eelgrass_polygons_d,Johnstone Strait,0.0,14716523.926053802,0.0
+eco_plants_eelgrass_polygons_d,NVI,0.0,30094768.18767427,0.0
+eco_plants_eelgrass_polygons_d,Queen Charlotte Strait,0.0,8620176.793339659,0.0
+eco_plants_eelgrass_polygons_d,Vancouver Island Shelf,0.0,12442882.74793613,0.0
+eco_plants_eelgrass_polygons_d,Queen Charlotte Sound,0.4196507260664148,8624828.203429537,3619415.417767297
+eco_coarse_ecosections_polygons_d,North Coast Fjords,0.0012631916059134682,93024689832.68713,117508007.33935434
+eco_coarse_ecosections_polygons_d,CC,0.02002276256183031,22083113384.076344,442164935.9153377
+eco_coarse_ecosections_polygons_d,Dixon Entrance,0.0003342988721325122,14676393902.038496,4906301.9284239495
+eco_coarse_ecosections_polygons_d,HG,0.00010685080206072207,45917314926.99283,4906301.9284239495
+eco_coarse_ecosections_polygons_d,Johnstone Strait,0.00023267314912051428,18934553345.436775,4405562.154073143
+eco_coarse_ecosections_polygons_d,NVI,0.004769635060214636,13889480190.98866,66247751.68709619
+eco_coarse_ecosections_polygons_d,Queen Charlotte Strait,0.0006415120153041481,6950705783.649482,4458961.2750551775
+eco_coarse_ecosections_polygons_d,Vancouver Island Shelf,0.001598572719770875,35896539174.14071,57383228.257967874
+eco_coarse_ecosections_polygons_d,Queen Charlotte Sound,0.008588934183929049,37799443053.53467,324656928.57598335
+eco_plants_bullkelp_polygons_d,Vancouver Island Shelf,0.017277369749937713,6029067.125846508,104166.42198044437
+eco_plants_bullkelp_polygons_d,NVI,0.003943871634526506,26412224.238872927,104166.42198044437
+eco_plants_bullkelp_polygons_d,North Coast Fjords,0.01039341814897479,12470396.377280558,129610.04403253723
+eco_plants_bullkelp_polygons_d,CC,0.9051991297948964,12773273.890464267,11562356.410280125
+eco_plants_bullkelp_polygons_d,Queen Charlotte Sound,0.3785829441646742,30198788.77922886,11432746.366247589
